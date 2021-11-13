@@ -15,3 +15,8 @@ Funny words repository
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+## Contributors
+
+* [UberNihilist](https://github.com/UberNihilist) - creator and maintainer
+* [h_pr](https://github.com/hackers-pr) - contributor of words.json
