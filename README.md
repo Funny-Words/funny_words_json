@@ -5,7 +5,7 @@ Funny words repository
 ## Development
 
 * JSON guides
-  * Try not to add words that already exists
+  * Try not to add words that exists
   * Use **double** quotes
 
 ## Contributing
@@ -19,4 +19,4 @@ Funny words repository
 ## Contributors
 
 * [UberNihilist](https://github.com/UberNihilist) - creator and maintainer
-* [h_pr](https://github.com/hackers-pr) - contributor of words.json
+* [h_pr](https://github.com/hackers-pr) - contributor
