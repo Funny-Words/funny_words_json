@@ -1,6 +1,10 @@
 # Funny Words
 
-Funny words repository
+Repository is for words.json
+
+## Usage
+
+Use it as [submodule](https://github.blog/2016-02-01-working-with-submodules/) or as crystal shard.
 
 ## Development
 
