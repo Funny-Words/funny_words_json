@@ -24,3 +24,4 @@ Use it as [submodule](https://github.blog/2016-02-01-working-with-submodules/) o
 
 * [UberNihilist](https://github.com/UberNihilist) - creator and maintainer
 * [h_pr](https://github.com/hackers-pr) - contributor
+* [paid](https://github.com/o6p) - contributor
